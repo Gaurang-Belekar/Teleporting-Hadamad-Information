@@ -13,7 +13,7 @@ The Teleportation Protocol suggest us:
 ## Input
 <img width="161" alt="Screenshot 2022-01-10 at 12 37 49 PM" src="https://user-images.githubusercontent.com/69144860/149150263-42e10706-dba9-4aee-8f83-2ccee5cc1675.png">
 
-Here the input q0 = (1/√2)(|0> + |1> )
+Here the input q0 = (1/√2)( |0> + |1> )
 
 ## Output
 
